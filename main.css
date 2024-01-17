@@ -1,0 +1,8 @@
+div.card {
+  display: flex;
+  flex-wrap: column;
+  justify-content: space-between;
+  margin: auto;
+  gap: 8px;
+  align-items: center;
+}
